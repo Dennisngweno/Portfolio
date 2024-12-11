@@ -1,0 +1,22 @@
+.logo{
+    width: 200px;
+    background-color: antiquewhite;
+    display: block;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.logo img{
+    border-radius: 5px;
+}
+.logo h1{
+    font-size: 20px;
+}
+span{
+    font-size: 15px;
+    color: goldenrod;
+}
+.container{
+    display: flex;
+}
