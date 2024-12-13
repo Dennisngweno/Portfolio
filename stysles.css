@@ -19,4 +19,26 @@ span{
 }
 .container{
     display: flex;
+    background-color: blue;
+    height: 150px;
+    width: auto;
+    margin-top: -2
+    00;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none; 
+}
+li{
+    text-decoration: none;
+    color: #444; 
+}
+.contacts{
+    width: auto;
+    height: 150px;
+    background-color: #444;
+}
+.title{
+    font-size: 80px;
 }
